@@ -1,4 +1,4 @@
-### the infinite monkey thereom
+### The Infinite Monkey Thereom
 
 `#0d3847`
 
